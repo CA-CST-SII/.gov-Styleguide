@@ -1,8 +1,8 @@
-# [styleguide.healthcare.gov](https://styleguide.healthcare.gov)
+# [styleguide.gov](https://styleguide.healthcare.gov)
 
 To get started with the HealthCare.gov assets library, you’ll need to use the required HTML, grid system framework, JavaScript, and CSS.
 
-More detail info can be found at [styleguide.healthcare.gov](https://styleguide.healthcare.gov)
+More detail info can be found at [styleguide.gov](https://styleguide.healthcare.gov)
 
 ## Table of contents
 
